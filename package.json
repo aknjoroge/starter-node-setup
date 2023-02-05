@@ -1,7 +1,7 @@
 {
-  "name": "unihomes-real-estate",
+  "name": "project-name",
   "version": "1.0.0",
-  "description": "Online booking sytems for universities",
+  "description": "project-description",
   "main": "server.js",
   "scripts": {
     "start": " node server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aknjoroge/uniHomes.git"
+    "url": "git+https://github.com/aknjoroge/starter-node-setup.git"
   },
   "author": "Alexander Karanja",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aknjoroge/uniHomes/issues"
+    "url": "https://github.com/aknjoroge/starter-node-setup/issues"
   },
-  "homepage": "https://github.com/aknjoroge/uniHomes#readme",
+  "homepage": "https://github.com/aknjoroge/starter-node-setup#readme",
   "dependencies": {
     "axios": "^0.21.4",
     "bcrypt": "^5.0.1",
